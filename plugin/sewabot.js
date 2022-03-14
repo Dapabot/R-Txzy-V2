@@ -12,7 +12,7 @@ Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
 Pulsa : ke pc🙏
-GoPay: 085868010957
+GoPay: ❗QRIS ONLY BANG❗
 `.trim()
     const button = {
         buttonText: 'List Harga',
